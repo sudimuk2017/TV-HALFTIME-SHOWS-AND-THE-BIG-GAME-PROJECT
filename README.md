@@ -8,3 +8,11 @@ TV, halftime shows, and the Big Game
 <li>Who are the most prolific musicians in terms of halftime show performances?</li>
 </ul>
 <p>The dataset we'll use was <a href="https://en.wikipedia.org/wiki/Web_scraping">scraped</a> and polished from Wikipedia. It is made up of three CSV files, one with <a href="https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions">game data</a>, one with <a href="https://en.wikipedia.org/wiki/Super_Bowl_television_ratings">TV data</a>, and one with <a href="https://en.wikipedia.org/wiki/List_of_Super_Bowl_halftime_shows">halftime musician data</a> for all 52 Super Bowls through 2018. Let's take a look, using <code>display()</code> instead of <code>print()</code> since its output is much prettier in Jupyter Notebooks.</p>
+
+ **Just for reference and I hope you can star⭐ me.**
+  
+  ## Contact me
+  
+  Gmail: murindanyi@gmail.com
+  
+  Linkin: [MyLinkin](https://www.linkedin.com/in/murindanyi-sudi-aa8793150/)
